@@ -1,4 +1,4 @@
-##IMG Carousel
+IMG Carousel
 
 I followed along with WebDevSimplified's [JS-CSS Carousel tutorial](https://github.com/WebDevSimplified/js-css-carousel) to try and get more familiar with animations and wanted to try what I learned to use, starting with my favorite place: New York City
 
