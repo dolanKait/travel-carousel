@@ -5,3 +5,6 @@ I followed along with WebDevSimplified's [JS-CSS Carousel tutorial](https://gith
 I will be working on fixing my js transitions and animations in the future, as well as adding more interaction. Once I've gotten a solid prototype, I hope to extend this project to other locations 
 
 Credit goes to [Unsplashed](https://unsplash.com/) for the image contributions.
+
+
+<img width="350" alt="travelscreenshot" src="https://user-images.githubusercontent.com/98899869/160216673-b7fe7082-5d18-4335-9d17-abaf14c1979a.png">
